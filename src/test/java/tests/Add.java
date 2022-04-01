@@ -1,0 +1,12 @@
+package tests;
+
+public class Add 
+{
+	public static void main(String[] args)
+	{
+		int a=10;
+		int b=5;
+		
+		System.out.println("Addition of two numbers" );
+	}
+}
